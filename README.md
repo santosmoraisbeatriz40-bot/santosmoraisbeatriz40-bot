@@ -1,111 +1,152 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Beatriz;UI%2FUX+Designer;Front-end+Developer;Criando+interfaces+com+prop%C3%B3sito+%E2%9C%A8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff00ff,100:00fff5&height=200&section=header&text=BEATRIZ.DEV&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%2FFront-end%20Developer%3E%20%2F%2F%20UI-UX%20Designer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Estudante%20em%20Evolução-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FFF5&center=true&vCenter=true&width=700&height=60&lines=%3E+SYSTEM_BOOT...+OK;%3E+LOADING+BEATRIZ.EXE;%3E+FRONT-END+_+UI%2FUX+MODULE+LOADED;%3E+PRONTA+PARA+CODAR+%E2%9A%A1" />
+
+<br>
+
+<img src="https://img.shields.io/badge/●_ONLINE-00FF9C?style=for-the-badge&labelColor=0d0221&color=0d0221&logo=nightowl&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/STATUS-Estudante_em_Evolução-FF00FF?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/BOOT_DATE-Nov/2025-00FFF5?style=for-the-badge&labelColor=0d0221" />
 
 </div>
 
----
+<br>
 
-## Sobre Mim
+## `01.` &nbsp;SOBRE_MIM.exe
 
-<div align="left">
+<div align="center">
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-✨ <b>Especialidade:</b> UI/UX Design com foco em Front-end  
-💡 <b>Foco Atual:</b> Interfaces intuitivas, modernas e acessíveis  
-🎨 <b>Interesses:</b> Design Systems, UX e estética visual  
-📚 <b>Jornada:</b> Iniciei meus estudos em Novembro de 2025
+```yaml
+class: Desenvolvedora
+role_primaria:   "Front-end Developer"
+role_secundaria: "UI/UX Designer"
+foco_atual:      "Interfaces intuitivas, modernas e acessíveis"
+interesses:      ["Design Systems", "UX", "Animações", "Pixel Art"]
+jornada_iniciada: "Novembro/2025"
+missao:          "Construir interfaces com propósito ✨"
+```
 
 </td>
-
 <td width="40%">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius:8px; box-shadow: 0 0 20px #ff00ff;">
 </td>
 </tr>
 </table>
 </div>
 
----
-
-## 🛠️ Tech Stack & Design Tools
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,cs,mysql,react,html,css,figma,xd,vscode,git&theme=dark" />
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFF5&width=100%"/>
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-FF00FF?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-FF00FF?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-FF00FF?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-FF00FF?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-FF00FF?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FF00FF?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-FF00FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
----
-
-## 🌱 Em aprendizado
+## `02.` &nbsp;TECH_STACK.json
 
 <div align="center">
 
-✨ Atualmente focada em evoluir em:
+**⚡ FRONT-END CORE**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" />
 
 <br><br>
 
-🧠 UI/UX Design  
-🎨 Prototipação no Figma  
-💻 Desenvolvimento Front-end  
-📱 Interfaces responsivas  
+**🎨 DESIGN & PROTOTIPAÇÃO**
 
-<br>
+<img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" />
 
-<img src="https://cdn.dribbble.com/users/1787323/screenshots/15369398/media/3c6c4c52a0f92b8e9e1e6c6d5e59d9bb.gif" width="250px">
+<br><br>
+
+**🛢️ BACK-END & VERSIONAMENTO**
+
+<img src="https://skillicons.dev/icons?i=cs,mysql,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00FFF5" />
+<img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00FFF5" />
+<img src="https://img.shields.io/badge/C%23-0d0221?style=for-the-badge&logo=csharp&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00FFF5" />
+<img src="https://img.shields.io/badge/Figma-0d0221?style=for-the-badge&logo=figma&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=00FFF5" />
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=FF00FF&width=100%"/>
+</div>
 
-## 🎨 Projetos em Construção
+## `03.` &nbsp;STATS.render()
 
 <div align="center">
 
-<p>✨ <i>"Em breve, meus projetos estarão aqui. Estou construindo algo com propósito e design."</i> 💭</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFF5&icon_color=FF00FF&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFF5&text_color=ffffff" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=highcontrast&hide_border=true&background=0d0221&stroke=FF00FF&ring=00FFF5&fire=FF00FF&currStreakLabel=00FFF5" width="60%"/>
 
 </div>
 
----
+> ⚠️ Troque `SEU_USUARIO` pelo seu usuário do GitHub nos links acima pra ativar os cards.
 
-## 📫 Vamos nos conectar?
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFF5&width=100%"/>
+</div>
+
+## `04.` &nbsp;CONTRIBUTION_GRID.animate()
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> 🐍 Cobrinha animada comendo seus commits — configura com a GitHub Action `Platane/snk` (te explico o passo a passo se quiser).
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=FF00FF&width=100%"/>
+</div>
+
+## `05.` &nbsp;PROJETOS_EM_BUILD
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────┐
+│  [■■■■■■■■□□□□□□□□□□]  45%                │
+│  > compilando portfólio...                │
+│  > em breve novos projetos aqui 🚀         │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFF5&width=100%"/>
+</div>
+
+## `06.` &nbsp;CONNECT.init()
 
 <div align="center">
 
 <a href="https://linkedin.com/in/SEU_PERFIL" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00FFF5" />
 </a>
-
 <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=FF00FF" />
+</a>
+<a href="https://github.com/SEU_USUARIO" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00FFF5" />
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=%3C%2F%3E+obrigada+pela+visita!;vamos+construir+algo+incr%C3%ADvel+%3F" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:ff00ff,100:0d0221&height=120&section=footer" width="100%"/>
