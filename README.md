@@ -53,11 +53,7 @@
   <br /><br />
 
   <!-- Bomberman das contribuições -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph.svg">
-    <img width="100%" alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph.svg">
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/main/bomberman-dark.svg" alt="Bomberman contribution graph" />
 
   <!-- Rodapé animado -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F0FF,100:FF2E97&animation=twinkling" alt="Footer" />
