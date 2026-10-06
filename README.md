@@ -1,64 +1,65 @@
 <div align="center">
-  <!-- Banner Rosa Animado de Entrada -->
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&theme=rose&fontColor=ffffff" alt="Header Wave" />
 
-  <br />
+  <!-- Banner animado -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:FF2E97,100:00F0FF&fontColor=ffffff&animation=twinkling" alt="Header" />
 
-  <!-- Saudação -->
-  <h1>👋 Oi! Sou a Beatriz Santos Morais</h1>
+  <!-- Texto digitando (pixel) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+Oi!+Sou+a+Beatriz+Morais;%3E+Desenvolvedora+Front-End;%3E+UI+Designer+%7C+UX+Designer;%3E+Criando+interfaces+animadas+%F0%9F%92%96" alt="Typing SVG" />
+
+  <br /><br />
+
   <p>
-    💡 <strong>Desenvolvedora Front-End & UI/UX</strong><br />
+    💻 <strong>Front-End</strong> &nbsp;|&nbsp; 🎨 <strong>UI</strong> &nbsp;|&nbsp; 🧠 <strong>UX</strong> &nbsp;|&nbsp; ✨ <strong>Animações</strong><br />
     🎓 Graduanda em ADS na UMC | Ex-aluna do Instituto PROA<br />
-    ✨ Transformando ideias em interfaces funcionais, acessíveis e encantadoras.
+    🎮 Transformando ideias em interfaces funcionais, acessíveis e encantadoras.
   </p>
 
   <br />
 
-  <!-- Redes Sociais com Badges Rosas -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/beatriz-p-morais/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:santosmoraisbeatriz40@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
-    </a>
-  </p>
+  <!-- Redes sociais -->
+  <a href="https://www.linkedin.com/in/beatriz-p-morais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF2E97?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:santosmoraisbeatriz40@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" height="28" alt="Gmail" />
+  </a>
 
-  <br />
+  <br /><br />
 
-###
+  <!-- Tecnologias -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio" />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <br /><br />
+
+  <!-- Bomberman das contribuições -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph.svg">
+    <img width="100%" alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/santosmoraisbeatriz40-bot/santosmoraisbeatriz40-bot/output/bomberman-contribution-graph.svg">
+  </picture>
+
+  <!-- Rodapé animado -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F0FF,100:FF2E97&animation=twinkling" alt="Footer" />
+
 </div>
-
-###
-
-<br clear="both">
-<table align="center">
-<tr>
-<td width="80%">
-
-
-<img width="100%" src="https://raw.githubusercontent.com/pedrohmartinez/pedrohmartinez/snake-output/snake.svg" />
-
-
